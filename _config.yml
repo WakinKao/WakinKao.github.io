@@ -21,13 +21,13 @@ repository               : "WakinKao/WakinKao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/profile.png"
+  name             : "Huajian Gao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Austin, TX"
+  employer         : "University of Texas at Austin"
+  url              : # URL
   email            : "none@example.org" 
 
   # Academic websites
