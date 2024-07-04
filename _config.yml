@@ -16,7 +16,7 @@ repository               : "WakinKao/WakinKao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.PNG"
+  avatar           : "profile.png"
   name             : "Huajian Gao"
   pronouns         : # example: "she/her"  
   bio              : "Quantitative Researcher| Family Study | Education Policy"
