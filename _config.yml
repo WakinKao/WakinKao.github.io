@@ -246,8 +246,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comments: false
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -255,8 +255,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
-      comment: false
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
