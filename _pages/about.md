@@ -39,12 +39,3 @@ I am a Ph.D candidate at University of Texas at Austin, specialized in quantitat
 • 2022-2023           College of Education Professional Development Award
 
 • 2023-2024           Graduate School Fellowship
-
-# 📊 Portfolio
-### 1. Descriptive and Factor Analysis with R (n=575)
-This work is the final project of the course "Data Visualization in R". Codes were written using R Markdown. Packages were used included tidyverse, dplyr, ggplot2, car, lavaan, etc.. This final project tried to answer the following research questions: 1) Do college students of different gender feel a different level of loneliness? 2) Do college students of different genders present different attitudes toward aloneness? 3. Do perceived parenting styles during childhood and adolescence relate to their perceived loneliness from parents and peers? Data analysis Methods include 1) Descriptive Analysis, 2) Pearson Correlation, 3) independent sample t-test, and 4) Psychometrics analysis.
-
-### 2. 2022-2023 New Student Orientation with Tableau
-
-### 3. College of Education Signature Impact Area Evaluation with Tableau (n=518)
-College of Education (COE) at the University of Texas at Austin aims to prepare future educators, leaders, and researchers to tackle impactful issues that face today’s students to positively transform lives. To achieve the goal, COE focuses on three strategic impact areas: advancing equitable opportunities and addressing disparities in education and health; attending to place and context; and thriving through transitions. This project strives to provide an intuitive view of the impact of the three strategic impact areas.
