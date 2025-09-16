@@ -19,8 +19,8 @@ I graduated with a Ph.D degree from the University of Texas at Austin, specializ
 • 2012-2016       B.S. Shenzhen University (Applied Psychology)
 
 # 📝 Publications
-1.	Somers P., Gao H., Taylor Z., (2021). “I Do Not Speak as Freely”: Gendered Views on Campus Carry at a Research University. Education and Urban Society, 55(4), 488-510
-2.	Gao H., Wang L., (2023). Moderation Effect of Grandparental Sensitivity in Family Dynamics: From Parental Sensitivity to Child Positive Affect. Journal of Child and Family Studies. 1-13
+1.	Somers P., Gao H., Taylor Z. (2021). “I Do Not Speak as Freely”: Gendered Views on Campus Carry at a Research University. Education and Urban Society, 55(4), 488-510
+2.	Gao H., Wang L. (2023). Moderation Effect of Grandparental Sensitivity in Family Dynamics: From Parental Sensitivity to Child Positive Affect. Journal of Child and Family Studies. 1-13
 
 # 🔖 Conferences
 1.	Falbo T., Gao H. (2025, August). Sibling Effects on Physical Activity and Screen Time. Poster presented at the Annual Meeting of the American Psychological Association (APA), Denver, Colorado.
@@ -29,6 +29,13 @@ I graduated with a Ph.D degree from the University of Texas at Austin, specializ
 4.	Gao H., Yang Y., Yang J. (2021, April). The mechanism of escaping self-discrepancy through video gaming and college students’ academic commitment. Poster presented at the America Educational Research Association (AERA), Virtual
 5.	Somers P., Gao H., Taylor Z., Marois M. (2020, November). A Gendered View of Campus Carry and Safety at a Large Research University. Paper presented at the Association for the Study of Higher Education (ASHE), New Orleans, Louisiana
 6.	Yang, Y., Lin S., Gao H., Falbo T. (2020, August). Explorations of the Motivations for One-Child Families in the U.S. Poster presented at the Annual Meeting of the American Psychological Association (APA), Washington, D.C.
+
+# 📝 ACADEMIC SERVICE
+## Ad-hoc Peer Reviewer
+Family Relations
+## Invited Presenter
+Chinese Autism Resources and Empowerment Services (CARES, Seattle, WA) 	       June 2024
+
 
 # 🏆 Awards, Fellowships
 • 2019-2020 	        Texas New Scholar Award
